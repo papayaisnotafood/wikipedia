@@ -1,0 +1,42 @@
+{{personal announcement|{{BASEPAGENAME}}|backcolor={{#switch: {{User:{{BASEPAGENAME}}/Status}}
+   |offline = pink
+   |sleep|busy|away|break|wikibreak|holiday = gold
+   |lightgreen
+   }}|content=現時{{UserStatus|inline=1}}，{{#switch: {{User:{{BASEPAGENAME}}/Status}}
+   |sleep|offline = 閣下的留言將於稍後回覆
+   |busy|away|break|wikibreak|holiday = 暫時或未能回覆閣下的留言
+   |歡迎於討論頁留言
+   }}。（[https://zh.wikipedia.org/w/index.php?title=User:Jonathan5566/Status&action=edit 更新]）}}{{Userpage}}
+{{圓桌會成員}}
+{{邊緣人小組}}
+{{U18協會成員}}
+{{AssociateEditor|A}}
+{{produceEncouragement|count=1}}
+{{維基文字工匠}}
+{{patrol}}
+
+<bdi>如果本人因意外事件去世，除非另有聲明，否則由本人生成的所有內容將均可在CC-BY版權協議下使用。</bdi>
+
+== 子頁面 ==
+[https://zh.wikipedia.org/w/index.php?title=User:Jonathan5566/%E7%B0%BD%E5%88%B0%E5%8D%80&action=edit 加減簽個名]
+
+[[User:Jonathan5566/身份聲明|身份聲明]]
+
+[[User:Jonathan5566/查核說明|查核說明]]
+
+==多重帳號說明==
+{{re|Jonathan55688}}為本人之備用帳號，在公用電腦上編輯時將使用該帳號。
+
+{{User Alt Acct Master}}
+{{User Patroller}}
+{{User ORCID|0000-0001-5736-0881}}
+{{Userboxtop|有可能符合我本人的用戶框}}
+{{User 中華民國}}
+{{User zh-N}}
+{{User c++-2}}
+{{user UTC+8}}
+{{User NSSH}}
+{{User days|2006|2|18}}
+{{Userboxbottom}}
+
+{{Template:Tools}}
