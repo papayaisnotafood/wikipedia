@@ -1,0 +1,877 @@
+== [[User:Jonathan5566]] ==
+
+已產生於 2021-04-21 13:38 使用 [http://xtools.wmflabs.org/ec/zh.wikipedia.org/Jonathan5566 XTools]
+
+=== 一般統計 ===
+
+{| class="wikitable sortable"
+| 使用者 ID
+| 2729979
+|-
+| 註冊日期
+| 2019-04-19 14:03
+|-
+| 使用者群組
+| 巡查員, 回退員, 自動確認使用者
+|-
+| 是管理員嗎？
+| 0
+|-
+| 首次編輯
+| [[Special:Diff/54082539|2019-04-19 14:11]]
+|-
+| 最新編輯
+| [[Special:Diff/65301746|2021-04-21 13:38]]
+|-
+| 可見編輯數
+| [[Special:Contributions/Jonathan5566|{{FORMATNUM:1334}}]] (90.4%)
+|-
+| 已刪除編輯數
+| [[Special:DeletedContributions/Jonathan5566|{{FORMATNUM:142}}]] (9.6%)
+|-
+| 總編輯數
+| {{FORMATNUM:1476}}
+|-
+| 最近 24 小時內的編輯數
+| {{FORMATNUM:55}}
+|-
+| 最近 7 天內的編輯數
+| {{FORMATNUM:317}}
+|-
+| 過去 30 天內的編輯數
+| {{FORMATNUM:933}}
+|-
+| 過去 365 天內的編輯數
+| {{FORMATNUM:1297}}
+|-
+| 平均每天編輯數
+| {{FORMATNUM:2}} ({{FORMATNUM:732}} 天)
+|-
+| 平均編輯內容大小*
+| {{FORMATNUM:223.2}} 位元組
+|-
+| 小修改
+| {{FORMATNUM:136}} (10.2%)
+|-
+| 小修改（小於 20 位元組）*
+| {{FORMATNUM:526}} (39.4%)
+|-
+| 大修改（多於 1000 位元組）*
+| {{FORMATNUM:96}} (7.2%)
+|}
+
+=== 頁面 ===
+
+{| class="wikitable sortable"
+| 編輯頁面數（總計）
+| {{FORMATNUM:741}}
+|-
+| 平均每頁面編輯數
+| {{FORMATNUM:1.992}}
+|-
+| 已建立頁面
+| [http://xtools.wmflabs.org/pages/zh.wikipedia.org/Jonathan5566/all {{FORMATNUM:190}}] (自上一次刪除後共 10 個)
+|-
+| 移動頁面數
+| [[Special:Log/move/Jonathan5566|{{FORMATNUM:12}}]]
+|-
+|}
+
+=== 檔案 ===
+
+{| class="wikitable sortable"
+| 已上傳檔案
+| [[Special:ListFiles/Jonathan5566|{{FORMATNUM:0}}]]
+|-
+| 已上傳檔案（維基共享資源）
+| [https://commons.wikimedia.org/wiki/Special:ListFiles/Jonathan5566 {{FORMATNUM:0}}]
+|-
+|}
+
+=== 操作 ===
+
+{| class="wikitable sortable"
+| 感謝
+| [[Special:Log/thanks/Jonathan5566|{{FORMATNUM:27}}]]
+|-
+| 核准
+| [https://zh.wikipedia.org/wiki/Special%3ALog%2Freview%2FJonathan5566?&amp;subtype=accept {{FORMATNUM:0}}]
+|-
+| 巡查
+| [[Special:Log/patrol/Jonathan5566|{{FORMATNUM:260}}]]
+|-
+| 已建立帳號
+| [[Special:Log/newusers/Jonathan5566|{{FORMATNUM:0}}]]
+|-
+|}
+
+=== （再次）封禁數 ===
+
+{| class="wikitable sortable"
+| 最長封禁
+| &ndash;
+|-
+| 目前封禁
+| &ndash;
+|-
+|}
+
+=== 全域編輯次數 (大致估計) ===
+
+{| class="wikitable sortable"
+|-
+| &#9658;[https://zh.wikipedia.org/wiki/Special%3AContributions%2FJonathan5566 zh.wikipedia.org]
+| [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566 {{FORMATNUM:1498}}]
+|-
+| [https://www.wikidata.org/wiki/Special%3AContributions%2FJonathan5566 www.wikidata.org]
+| [http://xtools.wmflabs.org/topedits/www.wikidata.org/Jonathan5566 {{FORMATNUM:57}}]
+|-
+| [https://meta.wikimedia.org/wiki/Special%3AContributions%2FJonathan5566 meta.wikimedia.org]
+| [http://xtools.wmflabs.org/topedits/meta.wikimedia.org/Jonathan5566 {{FORMATNUM:19}}]
+|-
+| [https://en.wikipedia.org/wiki/Special%3AContributions%2FJonathan5566 en.wikipedia.org]
+| [http://xtools.wmflabs.org/topedits/en.wikipedia.org/Jonathan5566 {{FORMATNUM:14}}]
+|-
+| [https://commons.wikimedia.org/wiki/Special%3AContributions%2FJonathan5566 commons.wikimedia.org]
+| [http://xtools.wmflabs.org/topedits/commons.wikimedia.org/Jonathan5566 {{FORMATNUM:4}}]
+|-
+| [https://zh.wikiquote.org/wiki/Special%3AContributions%2FJonathan5566 zh.wikiquote.org]
+| [http://xtools.wmflabs.org/topedits/zh.wikiquote.org/Jonathan5566 {{FORMATNUM:1}}]
+|-
+| [https://arz.wikipedia.org/wiki/Special%3AContributions%2FJonathan5566 arz.wikipedia.org]
+| [http://xtools.wmflabs.org/topedits/arz.wikipedia.org/Jonathan5566 {{FORMATNUM:0}}]
+|-
+| [https://pl.wikipedia.org/wiki/Special%3AContributions%2FJonathan5566 pl.wikipedia.org]
+| [http://xtools.wmflabs.org/topedits/pl.wikipedia.org/Jonathan5566 {{FORMATNUM:0}}]
+|-
+| [https://ru.wikipedia.org/wiki/Special%3AContributions%2FJonathan5566 ru.wikipedia.org]
+| [http://xtools.wmflabs.org/topedits/ru.wikipedia.org/Jonathan5566 {{FORMATNUM:0}}]
+|-
+| [https://simple.wikipedia.org/wiki/Special%3AContributions%2FJonathan5566 simple.wikipedia.org]
+| [http://xtools.wmflabs.org/topedits/simple.wikipedia.org/Jonathan5566 {{FORMATNUM:0}}]
+|-
+|}
+
+<nowiki>*</nowiki> 資料已限定至最近 5,000 次編輯
+
+=== 命名空間總計 ===
+
+{| class="wikitable sortable"
+|-
+! 排名
+! 命名空間
+! 數量
+|-
+| 1
+| 主要
+| [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/0 {{FORMATNUM:943}}] (70.7%)
+|-
+| 2
+| User
+| [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/2 {{FORMATNUM:142}}] (10.6%)
+|-
+| 3
+| Wikipedia
+| [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/4 {{FORMATNUM:114}}] (8.5%)
+|-
+| 4
+| User talk
+| [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/3 {{FORMATNUM:73}}] (5.5%)
+|-
+| 5
+| Talk
+| [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/1 {{FORMATNUM:47}}] (3.5%)
+|-
+| 6
+| Template
+| [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/10 {{FORMATNUM:8}}] (0.6%)
+|-
+| 7
+| Draft
+| [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/118 {{FORMATNUM:3}}] (0.2%)
+|-
+| 8
+| WikiProject
+| [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/102 {{FORMATNUM:2}}] (0.1%)
+|-
+| 9
+| Wikipedia talk
+| [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/5 {{FORMATNUM:1}}] (0.1%)
+|-
+| 10
+| MediaWiki talk
+| [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/9 {{FORMATNUM:1}}] (0.1%)
+|-
+!
+! 10 命名空間
+! {{FORMATNUM:1334}}
+|}
+
+=== 年度統計 ===
+
+{| class="wikitable sortable"
+! 年
+! 數量
+|-
+| 2019
+| {{FORMATNUM:2}}
+|-
+| 2020
+| {{FORMATNUM:226}}
+|-
+| 2021
+| {{FORMATNUM:1106}}
+|-
+|}
+
+=== 月統計 ===
+
+{| class="wikitable sortable"
+! 月
+! 數量
+|-
+| 2019-04
+| {{FORMATNUM:1}}
+|-
+| 2019-05
+| {{FORMATNUM:0}}
+|-
+| 2019-06
+| {{FORMATNUM:0}}
+|-
+| 2019-07
+| {{FORMATNUM:0}}
+|-
+| 2019-08
+| {{FORMATNUM:1}}
+|-
+| 2019-09
+| {{FORMATNUM:0}}
+|-
+| 2019-10
+| {{FORMATNUM:0}}
+|-
+| 2019-11
+| {{FORMATNUM:0}}
+|-
+| 2019-12
+| {{FORMATNUM:0}}
+|-
+| 2020-01
+| {{FORMATNUM:0}}
+|-
+| 2020-02
+| {{FORMATNUM:25}}
+|-
+| 2020-03
+| {{FORMATNUM:8}}
+|-
+| 2020-04
+| {{FORMATNUM:2}}
+|-
+| 2020-05
+| {{FORMATNUM:1}}
+|-
+| 2020-06
+| {{FORMATNUM:101}}
+|-
+| 2020-07
+| {{FORMATNUM:78}}
+|-
+| 2020-08
+| {{FORMATNUM:1}}
+|-
+| 2020-09
+| {{FORMATNUM:5}}
+|-
+| 2020-10
+| {{FORMATNUM:3}}
+|-
+| 2020-11
+| {{FORMATNUM:1}}
+|-
+| 2020-12
+| {{FORMATNUM:1}}
+|-
+| 2021-01
+| {{FORMATNUM:7}}
+|-
+| 2021-02
+| {{FORMATNUM:72}}
+|-
+| 2021-03
+| {{FORMATNUM:377}}
+|-
+| 2021-04
+| {{FORMATNUM:650}}
+|-
+|}
+
+
+=== 計時卡 ===
+
+{| class="wikitable"
+!
+! 0:00
+! 2:00
+! 4:00
+! 6:00
+! 8:00
+! 10:00
+! 12:00
+! 14:00
+! 16:00
+! 18:00
+! 20:00
+! 22:00
+|-
+! 星期日
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:9}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:15}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:20}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:28}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:26}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:28}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:14}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:23}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:46}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:45}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:6}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:27}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:38}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:48}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+|-
+! 星期一
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:7}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:2}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:3}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:6}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:17}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:3}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:5}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:25}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:51}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.6)" |{{FORMATNUM:56}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:8}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:19}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:3}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+|-
+! 星期二
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:6}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:21}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:23}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:28}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:10}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:2}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:28}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:27}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+|-
+! 星期三
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:2}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:14}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:4}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:32}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:32}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:25}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:19}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+|-
+! 星期四
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:30}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:3}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:10}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:17}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:30}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+|-
+! 星期五
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:9}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:19}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:6}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:4}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:9}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:9}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:6}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:15}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:4}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:12}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:1}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+|-
+! 星期六
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:6}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:2}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.4)" |{{FORMATNUM:36}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:17}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:19}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:8}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:30}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:9}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:19}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:7}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:7}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:19}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.5)" |{{FORMATNUM:46}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.2)" |{{FORMATNUM:22}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.3)" |{{FORMATNUM:33}}
+| style="text-align:center; background:rgba(50, 102, 36, 0.1)" |{{FORMATNUM:5}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+| style="text-align:center; background:rgba(50, 102, 36, 0)" |{{FORMATNUM:0}}
+|-
+|}
+
+所有時間為 UTC 標準。
+
+=== 各命名空間編輯最多的頁面 ===
+
+==== 主要 ====
+
+{| class="wikitable sortable"
+! 編輯次數
+! 頁面標題
+! 連結
+|-
+| {{FORMATNUM:93}}
+| [[:薩克斯本修復]]
+| [{{fullurl:Special:Log|page=薩克斯本修復}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/%E8%96%A9%E5%85%8B%E6%96%AF%E6%9C%AC%E4%BF%AE%E5%BE%A9 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/0/%E8%96%A9%E5%85%8B%E6%96%AF%E6%9C%AC%E4%BF%AE%E5%BE%A9 最多編輯]
+|-
+| {{FORMATNUM:17}}
+| [[:新北市私立南山高級中學]]
+| [{{fullurl:Special:Log|page=新北市私立南山高級中學}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/%E6%96%B0%E5%8C%97%E5%B8%82%E7%A7%81%E7%AB%8B%E5%8D%97%E5%B1%B1%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/0/%E6%96%B0%E5%8C%97%E5%B8%82%E7%A7%81%E7%AB%8B%E5%8D%97%E5%B1%B1%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8 最多編輯]
+|-
+| {{FORMATNUM:13}}
+| [[:反叛亂法]]
+| [{{fullurl:Special:Log|page=反叛亂法}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/%E5%8F%8D%E5%8F%9B%E4%BA%82%E6%B3%95 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/0/%E5%8F%8D%E5%8F%9B%E4%BA%82%E6%B3%95 最多編輯]
+|-
+| {{FORMATNUM:12}}
+| [[:葉一飛]]
+| [{{fullurl:Special:Log|page=葉一飛}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/%E5%8F%B6%E4%B8%80%E9%A3%9E 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/0/%E5%8F%B6%E4%B8%80%E9%A3%9E 最多編輯]
+|-
+| {{FORMATNUM:9}}
+| [[:卓順發]]
+| [{{fullurl:Special:Log|page=卓順發}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/%E5%8D%93%E9%A1%BA%E5%8F%91 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/0/%E5%8D%93%E9%A1%BA%E5%8F%91 最多編輯]
+|-
+| {{FORMATNUM:8}}
+| [[:大衛·蒙納許]]
+| [{{fullurl:Special:Log|page=大衛·蒙納許}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/%E5%A4%A7%E8%A1%9B%C2%B7%E8%92%99%E7%B4%8D%E8%A8%B1 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/0/%E5%A4%A7%E8%A1%9B%C2%B7%E8%92%99%E7%B4%8D%E8%A8%B1 最多編輯]
+|-
+| {{FORMATNUM:7}}
+| [[:理論理論]]
+| [{{fullurl:Special:Log|page=理論理論}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/%E7%90%86%E8%AB%96%E7%90%86%E8%AB%96 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/0/%E7%90%86%E8%AB%96%E7%90%86%E8%AB%96 最多編輯]
+|-
+| {{FORMATNUM:7}}
+| [[:2020年世界一級方程式錦標賽]]
+| [{{fullurl:Special:Log|page=2020年世界一級方程式錦標賽}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/2020%E5%B9%B4%E4%B8%96%E7%95%8C%E4%B8%80%E7%BA%A7%E6%96%B9%E7%A8%8B%E5%BC%8F%E9%94%A6%E6%A0%87%E8%B5%9B 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/0/2020%E5%B9%B4%E4%B8%96%E7%95%8C%E4%B8%80%E7%BA%A7%E6%96%B9%E7%A8%8B%E5%BC%8F%E9%94%A6%E6%A0%87%E8%B5%9B 最多編輯]
+|-
+| {{FORMATNUM:7}}
+| [[:西北太平洋樹章魚]]
+| [{{fullurl:Special:Log|page=西北太平洋樹章魚}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/%E8%A5%BF%E5%8C%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%A8%B9%E7%AB%A0%E9%AD%9A 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/0/%E8%A5%BF%E5%8C%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%A8%B9%E7%AB%A0%E9%AD%9A 最多編輯]
+|-
+| {{FORMATNUM:6}}
+| [[:木吉語]]
+| [{{fullurl:Special:Log|page=木吉語}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/%E6%9C%A8%E5%90%89%E8%AF%AD 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/0/%E6%9C%A8%E5%90%89%E8%AF%AD 最多編輯]
+|-
+! colspan=3 | [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/0 更多&hellip;]
+|}
+
+==== Talk ====
+
+{| class="wikitable sortable"
+! 編輯次數
+! 頁面標題
+! 連結
+|-
+| {{FORMATNUM:5}}
+| [[:Talk:薩克斯本修復]]
+| [{{fullurl:Special:Log|page=Talk:薩克斯本修復}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Talk:%E8%96%A9%E5%85%8B%E6%96%AF%E6%9C%AC%E4%BF%AE%E5%BE%A9 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/1/%E8%96%A9%E5%85%8B%E6%96%AF%E6%9C%AC%E4%BF%AE%E5%BE%A9 最多編輯]
+|-
+| {{FORMATNUM:3}}
+| [[:Talk:陳鞠旅天下第一軍勤王衛國-馳援渝東]]
+| [{{fullurl:Special:Log|page=Talk:陳鞠旅天下第一軍勤王衛國-馳援渝東}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Talk:%E9%99%B3%E9%9E%A0%E6%97%85%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%BB%8D%E5%8B%A4%E7%8E%8B%E8%A1%9B%E5%9C%8B-%E9%A6%B3%E6%8F%B4%E6%B8%9D%E6%9D%B1 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/1/%E9%99%B3%E9%9E%A0%E6%97%85%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%BB%8D%E5%8B%A4%E7%8E%8B%E8%A1%9B%E5%9C%8B-%E9%A6%B3%E6%8F%B4%E6%B8%9D%E6%9D%B1 最多編輯]
+|-
+| {{FORMATNUM:3}}
+| [[:Talk:喬瑟夫·梅爾科拉]]
+| [{{fullurl:Special:Log|page=Talk:喬瑟夫·梅爾科拉}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Talk:%E5%96%AC%E7%91%9F%E5%A4%AB%C2%B7%E6%A2%85%E7%88%BE%E7%A7%91%E6%8B%89 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/1/%E5%96%AC%E7%91%9F%E5%A4%AB%C2%B7%E6%A2%85%E7%88%BE%E7%A7%91%E6%8B%89 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:Talk:社會保障法修正案]]
+| [{{fullurl:Special:Log|page=Talk:社會保障法修正案}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Talk:%E7%A4%BE%E6%9C%83%E4%BF%9D%E9%9A%9C%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/1/%E7%A4%BE%E6%9C%83%E4%BF%9D%E9%9A%9C%E6%B3%95%E4%BF%AE%E6%AD%A3%E6%A1%88 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:Talk:大衛·蒙納許]]
+| [{{fullurl:Special:Log|page=Talk:大衛·蒙納許}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Talk:%E5%A4%A7%E8%A1%9B%C2%B7%E8%92%99%E7%B4%8D%E8%A8%B1 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/1/%E5%A4%A7%E8%A1%9B%C2%B7%E8%92%99%E7%B4%8D%E8%A8%B1 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:Talk:哈裡·盧克]]
+| [{{fullurl:Special:Log|page=Talk:哈裡·盧克}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Talk:%E5%93%88%E9%87%8C%C2%B7%E5%8D%A2%E5%85%8B 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/1/%E5%93%88%E9%87%8C%C2%B7%E5%8D%A2%E5%85%8B 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:Talk:國家科技體制改革和創新體系建設領導小組]]
+| [{{fullurl:Special:Log|page=Talk:國家科技體制改革和創新體系建設領導小組}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Talk:%E5%9B%BD%E5%AE%B6%E7%A7%91%E6%8A%80%E4%BD%93%E5%88%B6%E6%94%B9%E9%9D%A9%E5%92%8C%E5%88%9B%E6%96%B0%E4%BD%93%E7%B3%BB%E5%BB%BA%E8%AE%BE%E9%A2%86%E5%AF%BC%E5%B0%8F%E7%BB%84 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/1/%E5%9B%BD%E5%AE%B6%E7%A7%91%E6%8A%80%E4%BD%93%E5%88%B6%E6%94%B9%E9%9D%A9%E5%92%8C%E5%88%9B%E6%96%B0%E4%BD%93%E7%B3%BB%E5%BB%BA%E8%AE%BE%E9%A2%86%E5%AF%BC%E5%B0%8F%E7%BB%84 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:Talk:加利福尼亞大學戴維斯分校]]
+| [{{fullurl:Special:Log|page=Talk:加利福尼亞大學戴維斯分校}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Talk:%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9E%E5%A4%A7%E5%AD%B8%E6%88%B4%E7%B6%AD%E6%96%AF%E5%88%86%E6%A0%A1 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/1/%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9E%E5%A4%A7%E5%AD%B8%E6%88%B4%E7%B6%AD%E6%96%AF%E5%88%86%E6%A0%A1 最多編輯]
+|-
+| {{FORMATNUM:1}}
+| [[:Talk:圭多·卡洛·加蒂]]
+| [{{fullurl:Special:Log|page=Talk:圭多·卡洛·加蒂}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Talk:%E5%9C%AD%E5%A4%9A%C2%B7%E5%8D%A1%E6%B4%9B%C2%B7%E5%8A%A0%E8%92%82 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/1/%E5%9C%AD%E5%A4%9A%C2%B7%E5%8D%A1%E6%B4%9B%C2%B7%E5%8A%A0%E8%92%82 最多編輯]
+|-
+| {{FORMATNUM:1}}
+| [[:Talk:喬瑟夫·麥可·梅爾科拉]]
+| [{{fullurl:Special:Log|page=Talk:喬瑟夫·麥可·梅爾科拉}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Talk:%E5%96%AC%E7%91%9F%E5%A4%AB%C2%B7%E9%BA%A5%E5%8F%AF%C2%B7%E6%A2%85%E7%88%BE%E7%A7%91%E6%8B%89 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/1/%E5%96%AC%E7%91%9F%E5%A4%AB%C2%B7%E9%BA%A5%E5%8F%AF%C2%B7%E6%A2%85%E7%88%BE%E7%A7%91%E6%8B%89 最多編輯]
+|-
+! colspan=3 | [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/1 更多&hellip;]
+|}
+
+==== User ====
+
+{| class="wikitable sortable"
+! 編輯次數
+! 頁面標題
+! 連結
+|-
+| {{FORMATNUM:30}}
+| [[:User:Jonathan5566]]
+| [{{fullurl:Special:Log|page=User:Jonathan5566}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User:Jonathan5566 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/2/Jonathan5566 最多編輯]
+|-
+| {{FORMATNUM:26}}
+| [[:User:Jonathan5566/人文社會專題]]
+| [{{fullurl:Special:Log|page=User:Jonathan5566/人文社會專題}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User:Jonathan5566/%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E5%B0%88%E9%A1%8C 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/2/Jonathan5566/%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E5%B0%88%E9%A1%8C 最多編輯]
+|-
+| {{FORMATNUM:22}}
+| [[:User:Jonathan5566/Status]]
+| [{{fullurl:Special:Log|page=User:Jonathan5566/Status}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User:Jonathan5566/Status 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/2/Jonathan5566/Status 最多編輯]
+|-
+| {{FORMATNUM:12}}
+| [[:User:Jonathan5566/CSD日誌]]
+| [{{fullurl:Special:Log|page=User:Jonathan5566/CSD日誌}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User:Jonathan5566/CSD%E6%97%A5%E8%AA%8C 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/2/Jonathan5566/CSD%E6%97%A5%E8%AA%8C 最多編輯]
+|-
+| {{FORMATNUM:7}}
+| [[:User:Jonathan5566/common.js]]
+| [{{fullurl:Special:Log|page=User:Jonathan5566/common.js}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User:Jonathan5566/common.js 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/2/Jonathan5566/common.js 最多編輯]
+|-
+| {{FORMATNUM:5}}
+| [[:User:Jonathan5566/沙盒]]
+| [{{fullurl:Special:Log|page=User:Jonathan5566/沙盒}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User:Jonathan5566/%E6%B2%99%E7%9B%92 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/2/Jonathan5566/%E6%B2%99%E7%9B%92 最多編輯]
+|-
+| {{FORMATNUM:4}}
+| [[:User:Alexander Misel/sign]]
+| [{{fullurl:Special:Log|page=User:Alexander_Misel/sign}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User:Alexander_Misel/sign 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/2/Alexander_Misel/sign 最多編輯]
+|-
+| {{FORMATNUM:3}}
+| [[:User:Jonathan5566/twinkleoptions.js]]
+| [{{fullurl:Special:Log|page=User:Jonathan5566/twinkleoptions.js}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User:Jonathan5566/twinkleoptions.js 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/2/Jonathan5566/twinkleoptions.js 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:User:Miaulian/苗栗國]]
+| [{{fullurl:Special:Log|page=User:Miaulian/苗栗國}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User:Miaulian/%E8%8B%97%E6%A0%97%E5%9C%8B 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/2/Miaulian/%E8%8B%97%E6%A0%97%E5%9C%8B 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:User:Jonathan5566/木瓜厭惡史]]
+| [{{fullurl:Special:Log|page=User:Jonathan5566/木瓜厭惡史}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User:Jonathan5566/%E6%9C%A8%E7%93%9C%E5%8E%AD%E6%83%A1%E5%8F%B2 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/2/Jonathan5566/%E6%9C%A8%E7%93%9C%E5%8E%AD%E6%83%A1%E5%8F%B2 最多編輯]
+|-
+! colspan=3 | [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/2 更多&hellip;]
+|}
+
+==== User talk ====
+
+{| class="wikitable sortable"
+! 編輯次數
+! 頁面標題
+! 連結
+|-
+| {{FORMATNUM:4}}
+| [[:User talk:吳璐瑤888]]
+| [{{fullurl:Special:Log|page=User_talk:吳璐瑤888}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User%20talk:%E5%90%B4%E7%92%90%E7%91%B6888 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/3/%E5%90%B4%E7%92%90%E7%91%B6888 最多編輯]
+|-
+| {{FORMATNUM:4}}
+| [[:User talk:阿金財寶]]
+| [{{fullurl:Special:Log|page=User_talk:阿金財寶}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User%20talk:%E9%98%BF%E9%87%91%E8%B2%A1%E5%AF%B6 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/3/%E9%98%BF%E9%87%91%E8%B2%A1%E5%AF%B6 最多編輯]
+|-
+| {{FORMATNUM:3}}
+| [[:User talk:鴻昇]]
+| [{{fullurl:Special:Log|page=User_talk:鴻昇}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User%20talk:%E9%B4%BB%E6%98%87 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/3/%E9%B4%BB%E6%98%87 最多編輯]
+|-
+| {{FORMATNUM:3}}
+| [[:User talk:Newmangling]]
+| [{{fullurl:Special:Log|page=User_talk:Newmangling}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User%20talk:Newmangling 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/3/Newmangling 最多編輯]
+|-
+| {{FORMATNUM:3}}
+| [[:User talk:Ting223390]]
+| [{{fullurl:Special:Log|page=User_talk:Ting223390}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User%20talk:Ting223390 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/3/Ting223390 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:User talk:Caryx]]
+| [{{fullurl:Special:Log|page=User_talk:Caryx}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User%20talk:Caryx 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/3/Caryx 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:User talk:Tangchina236215]]
+| [{{fullurl:Special:Log|page=User_talk:Tangchina236215}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User%20talk:Tangchina236215 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/3/Tangchina236215 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:User talk:淺藍雪]]
+| [{{fullurl:Special:Log|page=User_talk:淺藍雪}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User%20talk:%E6%B7%BA%E8%97%8D%E9%9B%AA 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/3/%E6%B7%BA%E8%97%8D%E9%9B%AA 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:User talk:2404:0:8232:174D:93AC:F061:4ED:994]]
+| [{{fullurl:Special:Log|page=User_talk:2404:0:8232:174D:93AC:F061:4ED:994}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User%20talk:2404:0:8232:174D:93AC:F061:4ED:994 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/3/2404:0:8232:174D:93AC:F061:4ED:994 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:User talk:SickManWP]]
+| [{{fullurl:Special:Log|page=User_talk:SickManWP}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/User%20talk:SickManWP 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/3/SickManWP 最多編輯]
+|-
+! colspan=3 | [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/3 更多&hellip;]
+|}
+
+==== Wikipedia ====
+
+{| class="wikitable sortable"
+! 編輯次數
+! 頁面標題
+! 連結
+|-
+| {{FORMATNUM:27}}
+| [[:Wikipedia:新條目推薦/候選]]
+| [{{fullurl:Special:Log|page=Wikipedia:新條目推薦/候選}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Wikipedia:%E6%96%B0%E6%9D%A1%E7%9B%AE%E6%8E%A8%E8%8D%90/%E5%80%99%E9%80%89 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/4/%E6%96%B0%E6%9D%A1%E7%9B%AE%E6%8E%A8%E8%8D%90/%E5%80%99%E9%80%89 最多編輯]
+|-
+| {{FORMATNUM:11}}
+| [[:Wikipedia:關注度/提報]]
+| [{{fullurl:Special:Log|page=Wikipedia:關注度/提報}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Wikipedia:%E5%85%B3%E6%B3%A8%E5%BA%A6/%E6%8F%90%E6%8A%A5 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/4/%E5%85%B3%E6%B3%A8%E5%BA%A6/%E6%8F%90%E6%8A%A5 最多編輯]
+|-
+| {{FORMATNUM:10}}
+| [[:Wikipedia:權限申請/申請巡查權]]
+| [{{fullurl:Special:Log|page=Wikipedia:權限申請/申請巡查權}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Wikipedia:%E6%AC%8A%E9%99%90%E7%94%B3%E8%AB%8B/%E7%94%B3%E8%AB%8B%E5%B7%A1%E6%9F%A5%E6%AC%8A 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/4/%E6%AC%8A%E9%99%90%E7%94%B3%E8%AB%8B/%E7%94%B3%E8%AB%8B%E5%B7%A1%E6%9F%A5%E6%AC%8A 最多編輯]
+|-
+| {{FORMATNUM:8}}
+| [[:Wikipedia:典範條目評選/提名區]]
+| [{{fullurl:Special:Log|page=Wikipedia:典範條目評選/提名區}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Wikipedia:%E5%85%B8%E8%8C%83%E6%9D%A1%E7%9B%AE%E8%AF%84%E9%80%89/%E6%8F%90%E5%90%8D%E5%8C%BA 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/4/%E5%85%B8%E8%8C%83%E6%9D%A1%E7%9B%AE%E8%AF%84%E9%80%89/%E6%8F%90%E5%90%8D%E5%8C%BA 最多編輯]
+|-
+| {{FORMATNUM:7}}
+| [[:Wikipedia:頁面存廢討論/疑似侵權]]
+| [{{fullurl:Special:Log|page=Wikipedia:頁面存廢討論/疑似侵權}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Wikipedia:%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96/%E7%96%91%E4%BC%BC%E4%BE%B5%E6%AC%8A 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/4/%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96/%E7%96%91%E4%BC%BC%E4%BE%B5%E6%AC%8A 最多編輯]
+|-
+| {{FORMATNUM:6}}
+| [[:Wikipedia:當前的破壞]]
+| [{{fullurl:Special:Log|page=Wikipedia:當前的破壞}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Wikipedia:%E5%BD%93%E5%89%8D%E7%9A%84%E7%A0%B4%E5%9D%8F 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/4/%E5%BD%93%E5%89%8D%E7%9A%84%E7%A0%B4%E5%9D%8F 最多編輯]
+|-
+| {{FORMATNUM:6}}
+| [[:Wikipedia:維基榮譽/申請與變更/申請區]]
+| [{{fullurl:Special:Log|page=Wikipedia:維基榮譽/申請與變更/申請區}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Wikipedia:%E7%B6%AD%E5%9F%BA%E6%A6%AE%E8%AD%BD/%E7%94%B3%E8%AB%8B%E8%88%87%E8%AE%8A%E6%9B%B4/%E7%94%B3%E8%AB%8B%E5%8D%80 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/4/%E7%B6%AD%E5%9F%BA%E6%A6%AE%E8%AD%BD/%E7%94%B3%E8%AB%8B%E8%88%87%E8%AE%8A%E6%9B%B4/%E7%94%B3%E8%AB%8B%E5%8D%80 最多編輯]
+|-
+| {{FORMATNUM:3}}
+| [[:Wikipedia:優良條目評選/提名區]]
+| [{{fullurl:Special:Log|page=Wikipedia:優良條目評選/提名區}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Wikipedia:%E5%84%AA%E8%89%AF%E6%A2%9D%E7%9B%AE%E8%A9%95%E9%81%B8/%E6%8F%90%E5%90%8D%E5%8D%80 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/4/%E5%84%AA%E8%89%AF%E6%A2%9D%E7%9B%AE%E8%A9%95%E9%81%B8/%E6%8F%90%E5%90%8D%E5%8D%80 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:Wikipedia:沙盒]]
+| [{{fullurl:Special:Log|page=Wikipedia:沙盒}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Wikipedia:%E6%B2%99%E7%9B%92 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/4/%E6%B2%99%E7%9B%92 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:Wikipedia:《維基人》/訂閱列表]]
+| [{{fullurl:Special:Log|page=Wikipedia:《維基人》/訂閱列表}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Wikipedia:%E3%80%8A%E7%BB%B4%E5%9F%BA%E4%BA%BA%E3%80%8B/%E8%AE%A2%E9%98%85%E5%88%97%E8%A1%A8 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/4/%E3%80%8A%E7%BB%B4%E5%9F%BA%E4%BA%BA%E3%80%8B/%E8%AE%A2%E9%98%85%E5%88%97%E8%A1%A8 最多編輯]
+|-
+! colspan=3 | [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/4 更多&hellip;]
+|}
+
+==== Wikipedia talk ====
+
+{| class="wikitable sortable"
+! 編輯次數
+! 頁面標題
+! 連結
+|-
+| {{FORMATNUM:1}}
+| [[:Wikipedia talk:管理員解任投票/蟲蟲飛]]
+| [{{fullurl:Special:Log|page=Wikipedia_talk:管理員解任投票/蟲蟲飛}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Wikipedia%20talk:%E7%AE%A1%E7%90%86%E5%93%A1%E8%A7%A3%E4%BB%BB%E6%8A%95%E7%A5%A8/%E8%9F%B2%E8%9F%B2%E9%A3%9B 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/5/%E7%AE%A1%E7%90%86%E5%93%A1%E8%A7%A3%E4%BB%BB%E6%8A%95%E7%A5%A8/%E8%9F%B2%E8%9F%B2%E9%A3%9B 最多編輯]
+|}
+
+==== MediaWiki talk ====
+
+{| class="wikitable sortable"
+! 編輯次數
+! 頁面標題
+! 連結
+|-
+| {{FORMATNUM:1}}
+| [[:MediaWiki talk:Newusermessage-signatures]]
+| [{{fullurl:Special:Log|page=MediaWiki_talk:Newusermessage-signatures}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/MediaWiki%20talk:Newusermessage-signatures 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/9/Newusermessage-signatures 最多編輯]
+|}
+
+==== Template ====
+
+{| class="wikitable sortable"
+! 編輯次數
+! 頁面標題
+! 連結
+|-
+| {{FORMATNUM:2}}
+| [[:Template:美國索引]]
+| [{{fullurl:Special:Log|page=Template:美國索引}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Template:%E7%BE%8E%E5%9B%BD%E7%B4%A2%E5%BC%95 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/10/%E7%BE%8E%E5%9B%BD%E7%B4%A2%E5%BC%95 最多編輯]
+|-
+| {{FORMATNUM:2}}
+| [[:Template:運動畫刊年度最佳體育人物]]
+| [{{fullurl:Special:Log|page=Template:運動畫刊年度最佳體育人物}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Template:%E8%BF%90%E5%8A%A8%E7%94%BB%E5%88%8A%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E4%BD%93%E8%82%B2%E4%BA%BA%E7%89%A9 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/10/%E8%BF%90%E5%8A%A8%E7%94%BB%E5%88%8A%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E4%BD%93%E8%82%B2%E4%BA%BA%E7%89%A9 最多編輯]
+|-
+| {{FORMATNUM:1}}
+| [[:Template:瑞士政黨]]
+| [{{fullurl:Special:Log|page=Template:瑞士政黨}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Template:%E7%91%9E%E5%A3%AB%E6%94%BF%E9%BB%A8 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/10/%E7%91%9E%E5%A3%AB%E6%94%BF%E9%BB%A8 最多編輯]
+|-
+| {{FORMATNUM:1}}
+| [[:Template:法拉利車隊]]
+| [{{fullurl:Special:Log|page=Template:法拉利車隊}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Template:%E6%B3%95%E6%8B%89%E5%88%A9%E8%BB%8A%E9%9A%8A 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/10/%E6%B3%95%E6%8B%89%E5%88%A9%E8%BB%8A%E9%9A%8A 最多編輯]
+|-
+| {{FORMATNUM:1}}
+| [[:Template:阿斯圖裡亞斯女親王獎獲得者]]
+| [{{fullurl:Special:Log|page=Template:阿斯圖裡亞斯女親王獎獲得者}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Template:%E9%98%BF%E6%96%AF%E5%9B%BE%E9%87%8C%E4%BA%9A%E6%96%AF%E5%A5%B3%E4%BA%B2%E7%8E%8B%E5%A5%96%E8%8E%B7%E5%BE%97%E8%80%85 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/10/%E9%98%BF%E6%96%AF%E5%9B%BE%E9%87%8C%E4%BA%9A%E6%96%AF%E5%A5%B3%E4%BA%B2%E7%8E%8B%E5%A5%96%E8%8E%B7%E5%BE%97%E8%80%85 最多編輯]
+|-
+| {{FORMATNUM:1}}
+| [[:Template:馬恩著作]]
+| [{{fullurl:Special:Log|page=Template:馬恩著作}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Template:%E9%A9%AC%E6%81%A9%E8%91%97%E4%BD%9C 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/10/%E9%A9%AC%E6%81%A9%E8%91%97%E4%BD%9C 最多編輯]
+|}
+
+==== WikiProject ====
+
+{| class="wikitable sortable"
+! 編輯次數
+! 頁面標題
+! 連結
+|-
+| {{FORMATNUM:2}}
+| [[:WikiProject:建立條目/參與者]]
+| [{{fullurl:Special:Log|page=WikiProject:建立條目/參與者}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/WikiProject:%E5%BB%BA%E7%AB%8B%E6%A2%9D%E7%9B%AE/%E5%8F%83%E8%88%87%E8%80%85 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/102/%E5%BB%BA%E7%AB%8B%E6%A2%9D%E7%9B%AE/%E5%8F%83%E8%88%87%E8%80%85 最多編輯]
+|}
+
+==== Draft ====
+
+{| class="wikitable sortable"
+! 編輯次數
+! 頁面標題
+! 連結
+|-
+| {{FORMATNUM:2}}
+| [[:Draft:臺中市龍井區龍峰國民小學]]
+| [{{fullurl:Special:Log|page=Draft:臺中市龍井區龍峰國民小學}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Draft:%E8%87%BA%E4%B8%AD%E5%B8%82%E9%BE%8D%E4%BA%95%E5%8D%80%E9%BE%8D%E5%B3%B0%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/118/%E8%87%BA%E4%B8%AD%E5%B8%82%E9%BE%8D%E4%BA%95%E5%8D%80%E9%BE%8D%E5%B3%B0%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8 最多編輯]
+|-
+| {{FORMATNUM:1}}
+| [[:Draft:央金拉姆 (甘肅)]]
+| [{{fullurl:Special:Log|page=Draft:央金拉姆_(甘肅)}} 日誌] &middot; [http://xtools.wmflabs.org/articleinfo/zh.wikipedia.org/Draft:%E5%A4%AE%E9%87%91%E6%8B%89%E5%A7%86_%28%E7%94%98%E8%82%83%29 頁面歷史] &middot; [http://xtools.wmflabs.org/topedits/zh.wikipedia.org/Jonathan5566/118/%E5%A4%AE%E9%87%91%E6%8B%89%E5%A7%86_%28%E7%94%98%E8%82%83%29 最多編輯]
+|}
+
+=== 權限變更 ===
+
+{| class="wikitable sortable"
+|-
+! 日期
+! 權限
+! 執行者
+! 摘要
+|-
+| style="white-space: nowrap;" | [[Special:Redirect/logid/10422049|2021-04-17 04:27]]
+| <span style="color:#006400">+回退員</span>
+| <span class="plainlinks">[{{fullurl:User:Manchiu}} Manchiu]</span>
+| +回退員；[[Special:PermaLink/65239195#User:Jonathan5566|權限申請]]（使用[[User:Xiplus/js/userRightsManager|userRightsManager]]）
+|-
+| style="white-space: nowrap;" | [[Special:Redirect/logid/10375262|2021-03-27 08:06]]
+| <span style="color:#006400">+巡查員</span>
+| <span class="plainlinks">[{{fullurl:User:Manchiu}} Manchiu]</span>
+| +巡查員；[[Special:PermaLink/64941822#User:Jonathan5566|權限申請]]（使用[[User:Xiplus/js/userRightsManager|userRightsManager]]）
+|-
+| style="white-space: nowrap;" | 2020-06-09 04:00
+| <span style="color:#006400">+自動確認使用者</span>
+|
+| ''自動''
+|}
+
+
+
+所有時間為 UTC 標準。
