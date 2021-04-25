@@ -1,0 +1,618 @@
+== Wikipedia (zh.wikipedia.org) ==
+
+已產生於 2021-04-25 13:37 使用 [http://xtools.wmflabs.org/patrollerstats/zh.wikipedia.org/2021-03-25/2021-04-25?actions=patrol XTools]
+
+{| class="wikitable sortable"
+! #
+! 使用者名稱
+! 使用者群組
+! 總計
+! 巡查
+|-
+| {{FORMATNUM:1}}
+| [[User:Easterlies|Easterlies]]
+| 
+| {{FORMATNUM:482}}
+| {{FORMATNUM:482}}
+|-
+| {{FORMATNUM:2}}
+| [[User:Brror|Brror]]
+| 
+| {{FORMATNUM:417}}
+| {{FORMATNUM:417}}
+|-
+| {{FORMATNUM:3}}
+| [[User:Jonathan5566|Jonathan5566]]
+| 
+| {{FORMATNUM:365}}
+| {{FORMATNUM:365}}
+|-
+| {{FORMATNUM:4}}
+| [[User:蟲蟲飛|蟲蟲飛]]
+| 
+| {{FORMATNUM:360}}
+| {{FORMATNUM:360}}
+|-
+| {{FORMATNUM:5}}
+| [[User:Lantx|Lantx]]
+| 
+| {{FORMATNUM:281}}
+| {{FORMATNUM:281}}
+|-
+| {{FORMATNUM:6}}
+| [[User:華山初心|華山初心]]
+| 
+| {{FORMATNUM:213}}
+| {{FORMATNUM:213}}
+|-
+| {{FORMATNUM:7}}
+| [[User:遊魂|遊魂]]
+| 
+| {{FORMATNUM:203}}
+| {{FORMATNUM:203}}
+|-
+| {{FORMATNUM:8}}
+| [[User:Ohtashinichiro|Ohtashinichiro]]
+| 
+| {{FORMATNUM:154}}
+| {{FORMATNUM:154}}
+|-
+| {{FORMATNUM:9}}
+| [[User:Tigerzeng|Tigerzeng]]
+| 
+| {{FORMATNUM:131}}
+| {{FORMATNUM:131}}
+|-
+| {{FORMATNUM:10}}
+| [[User:Timmyboger|Timmyboger]]
+| 
+| {{FORMATNUM:117}}
+| {{FORMATNUM:117}}
+|-
+| {{FORMATNUM:11}}
+| [[User:寒吉|寒吉]]
+| 
+| {{FORMATNUM:106}}
+| {{FORMATNUM:106}}
+|-
+| {{FORMATNUM:12}}
+| [[User:Wolfch|Wolfch]]
+| 
+| {{FORMATNUM:105}}
+| {{FORMATNUM:105}}
+|-
+| {{FORMATNUM:13}}
+| [[User:Cwek|Cwek]]
+| 
+| {{FORMATNUM:97}}
+| {{FORMATNUM:97}}
+|-
+| {{FORMATNUM:14}}
+| [[User:霧島聖|霧島聖]]
+| 
+| {{FORMATNUM:96}}
+| {{FORMATNUM:96}}
+|-
+| {{FORMATNUM:15}}
+| [[User:AINH|AINH]]
+| 
+| {{FORMATNUM:96}}
+| {{FORMATNUM:96}}
+|-
+| {{FORMATNUM:16}}
+| [[User:Tombus20032000|Tombus20032000]]
+| 
+| {{FORMATNUM:66}}
+| {{FORMATNUM:66}}
+|-
+| {{FORMATNUM:17}}
+| [[User:A22234798|A22234798]]
+| 
+| {{FORMATNUM:58}}
+| {{FORMATNUM:58}}
+|-
+| {{FORMATNUM:18}}
+| [[User:94rain|94rain]]
+| 
+| {{FORMATNUM:57}}
+| {{FORMATNUM:57}}
+|-
+| {{FORMATNUM:19}}
+| [[User:Air7538|Air7538]]
+| 
+| {{FORMATNUM:56}}
+| {{FORMATNUM:56}}
+|-
+| {{FORMATNUM:20}}
+| [[User:Leiem|Leiem]]
+| 
+| {{FORMATNUM:53}}
+| {{FORMATNUM:53}}
+|-
+| {{FORMATNUM:21}}
+| [[User:Kou Dou|Kou Dou]]
+| 
+| {{FORMATNUM:47}}
+| {{FORMATNUM:47}}
+|-
+| {{FORMATNUM:22}}
+| [[User:Sun8908|Sun8908]]
+| 
+| {{FORMATNUM:40}}
+| {{FORMATNUM:40}}
+|-
+| {{FORMATNUM:23}}
+| [[User:Koala0090|Koala0090]]
+| 
+| {{FORMATNUM:37}}
+| {{FORMATNUM:37}}
+|-
+| {{FORMATNUM:24}}
+| [[User:SCP-2000|SCP-2000]]
+| 
+| {{FORMATNUM:31}}
+| {{FORMATNUM:31}}
+|-
+| {{FORMATNUM:25}}
+| [[User:銀河市長|銀河市長]]
+| 
+| {{FORMATNUM:28}}
+| {{FORMATNUM:28}}
+|-
+| {{FORMATNUM:26}}
+| [[User:Wiok|Wiok]]
+| 
+| {{FORMATNUM:27}}
+| {{FORMATNUM:27}}
+|-
+| {{FORMATNUM:27}}
+| [[User:太假真人|太假真人]]
+| 
+| {{FORMATNUM:27}}
+| {{FORMATNUM:27}}
+|-
+| {{FORMATNUM:28}}
+| [[User:Ch.Andrew|Ch.Andrew]]
+| 
+| {{FORMATNUM:25}}
+| {{FORMATNUM:25}}
+|-
+| {{FORMATNUM:29}}
+| [[User:Yining Chen|Yining Chen]]
+| 
+| {{FORMATNUM:23}}
+| {{FORMATNUM:23}}
+|-
+| {{FORMATNUM:30}}
+| [[User:Kuon.Haku|Kuon.Haku]]
+| 
+| {{FORMATNUM:22}}
+| {{FORMATNUM:22}}
+|-
+| {{FORMATNUM:31}}
+| [[User:AnYiLin|AnYiLin]]
+| 
+| {{FORMATNUM:20}}
+| {{FORMATNUM:20}}
+|-
+| {{FORMATNUM:32}}
+| [[User:Steven Sun|Steven Sun]]
+| 
+| {{FORMATNUM:20}}
+| {{FORMATNUM:20}}
+|-
+| {{FORMATNUM:33}}
+| [[User:Bxxiaolin|Bxxiaolin]]
+| 
+| {{FORMATNUM:20}}
+| {{FORMATNUM:20}}
+|-
+| {{FORMATNUM:34}}
+| [[User:30000lightyears|30000lightyears]]
+| 
+| {{FORMATNUM:19}}
+| {{FORMATNUM:19}}
+|-
+| {{FORMATNUM:35}}
+| [[User:Yumeto|Yumeto]]
+| 
+| {{FORMATNUM:16}}
+| {{FORMATNUM:16}}
+|-
+| {{FORMATNUM:36}}
+| [[User:百戰天蟲|百戰天蟲]]
+| 
+| {{FORMATNUM:16}}
+| {{FORMATNUM:16}}
+|-
+| {{FORMATNUM:37}}
+| [[User:卡達|卡達]]
+| 
+| {{FORMATNUM:14}}
+| {{FORMATNUM:14}}
+|-
+| {{FORMATNUM:38}}
+| [[User:BureibuNeko|BureibuNeko]]
+| 
+| {{FORMATNUM:12}}
+| {{FORMATNUM:12}}
+|-
+| {{FORMATNUM:39}}
+| [[User:Tazkeung|Tazkeung]]
+| 
+| {{FORMATNUM:11}}
+| {{FORMATNUM:11}}
+|-
+| {{FORMATNUM:40}}
+| [[User:Kiraclyne|Kiraclyne]]
+| 
+| {{FORMATNUM:10}}
+| {{FORMATNUM:10}}
+|-
+| {{FORMATNUM:41}}
+| [[User:KirkLU|KirkLU]]
+| 
+| {{FORMATNUM:10}}
+| {{FORMATNUM:10}}
+|-
+| {{FORMATNUM:42}}
+| [[User:Richard923888|Richard923888]]
+| 
+| {{FORMATNUM:9}}
+| {{FORMATNUM:9}}
+|-
+| {{FORMATNUM:43}}
+| [[User:Googol19980904|Googol19980904]]
+| 
+| {{FORMATNUM:9}}
+| {{FORMATNUM:9}}
+|-
+| {{FORMATNUM:44}}
+| [[User:YOWOT868|YOWOT868]]
+| 
+| {{FORMATNUM:9}}
+| {{FORMATNUM:9}}
+|-
+| {{FORMATNUM:45}}
+| [[User:Jacklamf1d14|Jacklamf1d14]]
+| 
+| {{FORMATNUM:8}}
+| {{FORMATNUM:8}}
+|-
+| {{FORMATNUM:46}}
+| [[User:Suaveness|Suaveness]]
+| 
+| {{FORMATNUM:7}}
+| {{FORMATNUM:7}}
+|-
+| {{FORMATNUM:47}}
+| [[User:Temp3600|Temp3600]]
+| 
+| {{FORMATNUM:7}}
+| {{FORMATNUM:7}}
+|-
+| {{FORMATNUM:48}}
+| [[User:Hijk910|Hijk910]]
+| 
+| {{FORMATNUM:7}}
+| {{FORMATNUM:7}}
+|-
+| {{FORMATNUM:49}}
+| [[User:和平奮鬥救地球|和平奮鬥救地球]]
+| 
+| {{FORMATNUM:7}}
+| {{FORMATNUM:7}}
+|-
+| {{FORMATNUM:50}}
+| [[User:Hamish|Hamish]]
+| 
+| {{FORMATNUM:7}}
+| {{FORMATNUM:7}}
+|-
+| {{FORMATNUM:51}}
+| [[User:Green Starbucks|Green Starbucks]]
+| 
+| {{FORMATNUM:7}}
+| {{FORMATNUM:7}}
+|-
+| {{FORMATNUM:52}}
+| [[User:Ericliu1912|Ericliu1912]]
+| 
+| {{FORMATNUM:7}}
+| {{FORMATNUM:7}}
+|-
+| {{FORMATNUM:53}}
+| [[User:Willy1018|Willy1018]]
+| 
+| {{FORMATNUM:7}}
+| {{FORMATNUM:7}}
+|-
+| {{FORMATNUM:54}}
+| [[User:Johnson.Xia|Johnson.Xia]]
+| 
+| {{FORMATNUM:6}}
+| {{FORMATNUM:6}}
+|-
+| {{FORMATNUM:55}}
+| [[User:Will629|Will629]]
+| 
+| {{FORMATNUM:5}}
+| {{FORMATNUM:5}}
+|-
+| {{FORMATNUM:56}}
+| [[User:Assanges|Assanges]]
+| 
+| {{FORMATNUM:5}}
+| {{FORMATNUM:5}}
+|-
+| {{FORMATNUM:57}}
+| [[User:A2569875|A2569875]]
+| 
+| {{FORMATNUM:5}}
+| {{FORMATNUM:5}}
+|-
+| {{FORMATNUM:58}}
+| [[User:人人生來平等|人人生來平等]]
+| 
+| {{FORMATNUM:4}}
+| {{FORMATNUM:4}}
+|-
+| {{FORMATNUM:59}}
+| [[User:魯班|魯班]]
+| 
+| {{FORMATNUM:4}}
+| {{FORMATNUM:4}}
+|-
+| {{FORMATNUM:60}}
+| [[User:*angys*|*angys*]]
+| 
+| {{FORMATNUM:4}}
+| {{FORMATNUM:4}}
+|-
+| {{FORMATNUM:61}}
+| [[User:和平至上|和平至上]]
+| 
+| {{FORMATNUM:3}}
+| {{FORMATNUM:3}}
+|-
+| {{FORMATNUM:62}}
+| [[User:Taiwania Justo|Taiwania Justo]]
+| 
+| {{FORMATNUM:3}}
+| {{FORMATNUM:3}}
+|-
+| {{FORMATNUM:63}}
+| [[User:Super Wang|Super Wang]]
+| 
+| {{FORMATNUM:3}}
+| {{FORMATNUM:3}}
+|-
+| {{FORMATNUM:64}}
+| [[User:Shizhao|Shizhao]]
+| 
+| {{FORMATNUM:3}}
+| {{FORMATNUM:3}}
+|-
+| {{FORMATNUM:65}}
+| [[User:ZhuofanWu|ZhuofanWu]]
+| 
+| {{FORMATNUM:3}}
+| {{FORMATNUM:3}}
+|-
+| {{FORMATNUM:66}}
+| [[User:I am a man|I am a man]]
+| 
+| {{FORMATNUM:3}}
+| {{FORMATNUM:3}}
+|-
+| {{FORMATNUM:67}}
+| [[User:Eartheater|Eartheater]]
+| 
+| {{FORMATNUM:3}}
+| {{FORMATNUM:3}}
+|-
+| {{FORMATNUM:68}}
+| [[User:瑞麗江的河水|瑞麗江的河水]]
+| 
+| {{FORMATNUM:3}}
+| {{FORMATNUM:3}}
+|-
+| {{FORMATNUM:69}}
+| [[User:BoyuZhang1998|BoyuZhang1998]]
+| 
+| {{FORMATNUM:3}}
+| {{FORMATNUM:3}}
+|-
+| {{FORMATNUM:70}}
+| [[User:WhitePhosphorus|WhitePhosphorus]]
+| 
+| {{FORMATNUM:3}}
+| {{FORMATNUM:3}}
+|-
+| {{FORMATNUM:71}}
+| [[User:莊樂遙|莊樂遙]]
+| 
+| {{FORMATNUM:2}}
+| {{FORMATNUM:2}}
+|-
+| {{FORMATNUM:72}}
+| [[User:Outlookxp|Outlookxp]]
+| 
+| {{FORMATNUM:2}}
+| {{FORMATNUM:2}}
+|-
+| {{FORMATNUM:73}}
+| [[User:Wcam|Wcam]]
+| 
+| {{FORMATNUM:2}}
+| {{FORMATNUM:2}}
+|-
+| {{FORMATNUM:74}}
+| [[User:Kuailong|Kuailong]]
+| 
+| {{FORMATNUM:2}}
+| {{FORMATNUM:2}}
+|-
+| {{FORMATNUM:75}}
+| [[User:Billytanghh|Billytanghh]]
+| 
+| {{FORMATNUM:2}}
+| {{FORMATNUM:2}}
+|-
+| {{FORMATNUM:76}}
+| [[User:Jane9306|Jane9306]]
+| 
+| {{FORMATNUM:2}}
+| {{FORMATNUM:2}}
+|-
+| {{FORMATNUM:77}}
+| [[User:Jingkaimori|Jingkaimori]]
+| 
+| {{FORMATNUM:2}}
+| {{FORMATNUM:2}}
+|-
+| {{FORMATNUM:78}}
+| [[User:黃琬琦|黃琬琦]]
+| 
+| {{FORMATNUM:2}}
+| {{FORMATNUM:2}}
+|-
+| {{FORMATNUM:79}}
+| [[User:Unseaingly|Unseaingly]]
+| 
+| {{FORMATNUM:2}}
+| {{FORMATNUM:2}}
+|-
+| {{FORMATNUM:80}}
+| [[User:Prince of Erebor|Prince of Erebor]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:81}}
+| [[User:春捲柯南|春捲柯南]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:82}}
+| [[User:A1Cafel|A1Cafel]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:83}}
+| [[User:A635683851|A635683851]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:84}}
+| [[User:AT|AT]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:85}}
+| [[User:BakaChinatsu|BakaChinatsu]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:86}}
+| [[User:葉又嘉|葉又嘉]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:87}}
+| [[User:Choihei|Choihei]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:88}}
+| [[User:CopperSulfate|CopperSulfate]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:89}}
+| [[User:DAN DAN 66|DAN DAN 66]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:90}}
+| [[User:Formuse|Formuse]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:91}}
+| [[User:Pbdragonwang|Pbdragonwang]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:92}}
+| [[User:小文人|小文人]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:93}}
+| [[User:Rowe Wilson Frederisk Holme|Rowe Wilson Frederisk Holme]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:94}}
+| [[User:Vikarna|Vikarna]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:95}}
+| [[User:Yangfl|Yangfl]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:96}}
+| [[User:Jonashtand|Jonashtand]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:97}}
+| [[User:JuneAugust|JuneAugust]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:98}}
+| [[User:Yenhochia|Yenhochia]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:99}}
+| [[User:だ＊ぜ|だ＊ぜ]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:100}}
+| [[User:Ngguls|Ngguls]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+| {{FORMATNUM:101}}
+| [[User:Jimmyshjj|Jimmyshjj]]
+| 
+| {{FORMATNUM:1}}
+| {{FORMATNUM:1}}
+|-
+|}
